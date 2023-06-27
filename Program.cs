@@ -4,10 +4,26 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
-namespace MACAddressTool
+namespace MACAddressSwapper
 {
     static class Program
     {
+        
+   /// CHECK RELEASE
+   /// CHECK RELEASE
+   /// CHECK RELEASE
+   /// CHECK RELEASE
+   /// CHECK RELEASE
+   /// CHECK RELEASE
+   /// CHECK RELEASE
+   /// CHECK RELEASE
+   /// CHECK RELEASE
+   /// CHECK RELEASE
+   /// CHECK RELEASE
+   /// CHECK RELEASE
+   /// CHECK RELEASE
+   /// CHECK RELEASE
+
         /// <summary>
         /// The main entry point for the application.
         /// </summary>
