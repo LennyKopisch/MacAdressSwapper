@@ -7,7 +7,7 @@ this tool provides a simple and efficient solution to work with MAC addresses.**
 
 **Totally free for use, no credits needed.**
 
-___DEPENDENCIES:___
+___DEPENDENCIES:___ <br>
   .NET Framwork 4.8 -> https://dotnet.microsoft.com/en-us/download/dotnet-framework/thank-you/net48-web-installer
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
