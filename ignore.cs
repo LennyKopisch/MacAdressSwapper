@@ -25,8 +25,6 @@ namespace MACAddressSwapper
    /// CHECK RELEASE
    /// CHECK RELEASE
    /// CHECK RELEASE
-   /// CHECK RELEASE
-   /// CHECK RELEASE
 
         
         /// <summary>
